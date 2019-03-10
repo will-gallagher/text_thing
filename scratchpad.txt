@@ -1,24 +1,65 @@
 //	Scratchpad for a text parser by Will Gallagher
 
+//	Who
 
-//	'I' and phrases that start with 'I'.
+	//	'I' and phrases that start with 'I'.
 
-I
-I am
-I am.
-I am /* name */.
-I am well.
+	I
+	I am
+	I am.
+	I am /* name */.
+	I am well.
 
-//	'He' and phrases that start with 'He'.
+	//	'He' and phrases that start with 'He'.
 
-//	'She' and phrases that start with 'She'.
+	He
+	He is well
 
-//	'You' and phrases that start with 'You'.
+	//	'His' and phrases that start with 'His'.
 
-//	'We' and phrases that start with 'We'.
+	His name is /* name */
 
-//	'They' and phrases that start with 'They'.
+	//	'She' and phrases that start with 'She'.
 
-//	'Those' and phrases that start with 'Those'.
+	//	'Her' and phrases that start with 'Her'.
 
-//	List of words 
+	Her name is /* name */
+
+	//	'You' and phrases that start with 'You'.
+
+	//	'Your' and phrases that start with 'Your'.
+
+	His name is /* name */
+
+	//	"You're" and phrases that start with "You're".
+
+	//	'We' and phrases that start with 'We'.
+
+	//	'Our' and phrases that start with 'Our'.
+
+	//	"We're" and phrases that start with "We're".
+
+	//	'They' and phrases that start with 'They'.
+
+	//	'Their' and phrases that start with 'Their'.
+
+
+
+	//	"They're" and phrases that start with "They're".
+
+	//	'Those' and phrases that start with 'Those'.
+
+	//	'My' and phrases that start with 'My'.
+
+	My name is Will.
+
+//	What
+
+//	When
+
+//	Where
+
+//	Why
+
+//	How
+	//	List of words 
