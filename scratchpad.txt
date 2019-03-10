@@ -56,9 +56,14 @@
 		My mother's name is Kathleen.
 		My mother's birthday is the twenty-fifth of February.
 
+//	'Yes' and 'no'
+
+	Yes
+	No
+	
 //	What
 
-
+	
 
 //	When
 
@@ -145,4 +150,61 @@
 //	Do
 	
 	
-	//	List of words 
+	//	List of words
+	
+//	C/C++, JavaScript and other programming words, operands and markup
+	
+	//	Inline comment
+	/*		*/	//	Multi-line comment
+	//	<!--		-->	//	XML/HTML (multi-line) comment
+	
+	//	#include
+	//	#include stdio
+	//	#include strings
+	
+	//	std::
+	//	std::cout <<
+	//	std::cin >>
+	//	std::endl;
+	
+	//	[]
+	
+	//	int
+	//	long int
+	//	long long int
+	
+	//	void
+	
+	//	float
+	//	double
+	//	long double
+	
+	//	char
+	//	wchar_t
+	//	char8_t
+	//	char16_t
+	//	char32_t
+	
+	//	bool
+	//	true
+	//	false
+	//	==
+	//	!=
+	//	<=
+	//	>=
+	//	++
+	//	--
+	//	+=
+	//	-=
+	
+	//	string
+	
+	//	signed 
+	//	unsigned
+	
+	//	class
+	//	new
+	
+	//	public
+	//	private
+	//	protected
