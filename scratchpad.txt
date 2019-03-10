@@ -1,0 +1,24 @@
+//	Scratchpad for a text parser by Will Gallagher
+
+
+//	'I' and phrases that start with 'I'.
+
+I
+I am
+I am.
+I am /* name */.
+I am well.
+
+//	'He' and phrases that start with 'He'.
+
+//	'She' and phrases that start with 'She'.
+
+//	'You' and phrases that start with 'You'.
+
+//	'We' and phrases that start with 'We'.
+
+//	'They' and phrases that start with 'They'.
+
+//	'Those' and phrases that start with 'Those'.
+
+//	List of words 
