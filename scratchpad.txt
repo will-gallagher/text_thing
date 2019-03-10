@@ -1,65 +1,148 @@
 //	Scratchpad for a text parser by Will Gallagher
+//	Started on the ninth of March, 2019.
+//	First upload was done at 20:10 CST.
+
 
 //	Who
 
 	//	'I' and phrases that start with 'I'.
 
-	I
-	I am
-	I am.
-	I am /* name */.
-	I am well.
+		I
+		I am
+		I am.
+		I am /* name */.
+		I am well.
 
 	//	'He' and phrases that start with 'He'.
 
-	He
-	He is well
+		He
+		He is well
 
 	//	'His' and phrases that start with 'His'.
 
-	His name is /* name */
+		His name is /* name */
 
 	//	'She' and phrases that start with 'She'.
-
+		
 	//	'Her' and phrases that start with 'Her'.
 
-	Her name is /* name */
+		Her name is /* name */
 
 	//	'You' and phrases that start with 'You'.
-
+		
 	//	'Your' and phrases that start with 'Your'.
 
-	His name is /* name */
+		His name is /* name */
 
 	//	"You're" and phrases that start with "You're".
-
+		
 	//	'We' and phrases that start with 'We'.
-
+		
 	//	'Our' and phrases that start with 'Our'.
-
+		
 	//	"We're" and phrases that start with "We're".
-
+		
 	//	'They' and phrases that start with 'They'.
-
+		
 	//	'Their' and phrases that start with 'Their'.
-
-
-
+		
 	//	"They're" and phrases that start with "They're".
-
+		
 	//	'Those' and phrases that start with 'Those'.
-
+		
 	//	'My' and phrases that start with 'My'.
 
-	My name is Will.
+		My name is Will.
+		My mother's name is Kathleen.
+		My mother's birthday is the twenty-fifth of February.
 
 //	What
 
+
+
 //	When
+
+	//	January
+	
+	//	February
+	
+	//	March
+	
+	//	April
+	
+	//	May
+	
+	//	June
+	
+	//	July
+	
+	//	August
+	
+	//	September
+	
+	//	October
+	
+	//	November
+	
+	//	December
 
 //	Where
 
+	Heaven
+	Earth
+	
+	//	Nations
+	
+		The United States of America
+	
+			//	States
+		
+			Nevada
+			
+				//	County
+			
+				Clark
+			
+					//	City
+			
+					Las Vegas
+		
+			New York
+		
+					//	City
+			
+					Albany
+			
+			Texas
+		
+				//	County
+			
+				Dallas
+			
+					//	City
+				
+					Dallas
+				
+				Travis
+			
+					//	City
+				
+					Austin
+				
+				Wood
+			
+					//	City
+				
+					Quitman
+				
+				
+					Tyler
+		
 //	Why
-
+	
 //	How
+	
+//	Do
+	
+	
 	//	List of words 
